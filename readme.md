@@ -1,0 +1,1 @@
+This is me working through the https://www.microsoft.com/net/tutorials/csharp/getting-started tutorials.
