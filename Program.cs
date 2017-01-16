@@ -6,7 +6,12 @@ namespace ConsoleApplication
     {
         public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            //Tutorial Version:
+            /*string userName = "Test";
+            Console.WriteLine($"Hello {userName}!"); */
+
+            //Version I see elsewhere:
+            Console.WriteLine("Hello {0}!", "Test");
         }
     }
 }
