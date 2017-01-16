@@ -4,7 +4,8 @@ Completed:
 
 1. Creating a Hello World Program
 2. Learning About Built-In Types and Variables
+3. Working with Strings
 
 Started:
 
-3. Working with Strings
+4. Working with Dates and Times
