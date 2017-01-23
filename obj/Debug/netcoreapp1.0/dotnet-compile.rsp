@@ -1,5 +1,5 @@
---temp-output:G:\Project Repos\GettingStarted\obj\Debug\netcoreapp1.0\
---out:G:\Project Repos\GettingStarted\bin\Debug\netcoreapp1.0\GettingStarted.dll
+--temp-output:g:\Project Repos\GettingStarted\obj\Debug\netcoreapp1.0\
+--out:g:\Project Repos\GettingStarted\bin\Debug\netcoreapp1.0\GettingStarted.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -86,4 +86,4 @@
 --reference:C:\Users\mbuss2\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\mbuss2\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\mbuss2\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-G:\Project Repos\GettingStarted\Program.cs
+g:\Project Repos\GettingStarted\Program.cs
