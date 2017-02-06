@@ -11,13 +11,13 @@
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"
-        };
+        },
         {
             "taskName": "run",
             "args": [
                 "${workspaceRoot}\\project.json"
             ],
-            "isTestCommand": True,
+            "isTestCommand": true,
             "showOutput": "always"
         }
     ]
